@@ -1,0 +1,52 @@
+input,
+div {
+  display: block;
+  margin: 2rem 0;
+}
+
+.flex {
+  display: flex;
+}
+
+.checkbox {
+  display: inline;
+  margin: 0 1rem 0 0;
+}
+
+.display {
+  display: none;
+}
+
+li.item {
+  display: flex;
+  margin: 0;
+}
+
+button {
+  display: block;
+  margin: 0 0.3rem 0.3rem 0.3rem;
+}
+
+.main {
+  color: red;
+  font-weight:bold;
+  text-transform: uppercase;
+}
+
+.text-transform {
+    text-transform: lowercase;
+}
+
+.task2-form, .task2-form table {
+    margin-top:50px;
+    text-align:center;
+}
+
+.centered {
+    margin-left:auto;
+    margin-right:auto;
+}
+
+.task2-form input, .task2-form button {
+    margin:1rem auto
+}
